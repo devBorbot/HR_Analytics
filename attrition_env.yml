@@ -9,7 +9,6 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
+  - puncc
   - notebook
   - pip
-  - pip:
-      - mapie
